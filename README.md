@@ -1,1 +1,2 @@
 # map-sprites
+Map Icons
