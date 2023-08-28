@@ -1,0 +1,12 @@
+{
+  "name":"data",
+  "description":"",
+  "version":2,
+  "minzoom":0,
+  "maxzoom":5,
+  "center":"84.9352652,27.4657609,0",
+  "bounds":"83.9448810,26.7303804,85.9256494,28.2011414",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"map_4326\",\n      \"description\":\"\",\n      \"minzoom\":0,\n      \"maxzoom\":5,\n      \"fields\":{\n        \"mvt_id\":\"Number\",\n        \"icon\":\"String\",\n        \"name\":\"String\"\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"map_4326\",\n        \"count\":8,\n        \"geometry\":\"Point\",\n        \"attributeCount\":2,\n        \"attributes\":[\n          {\n            \"attribute\":\"icon\",\n            \"count\":8,\n            \"type\":\"string\",\n            \"values\":[\n              \"changunarayan\",\n              \"ghantaghar\",\n              \"janakimandir\",\n              \"krishnamandir\",\n              \"nyatapole\",\n              \"pashupatinath\",\n              \"peacestupa\",\n              \"swayambhunath\"\n            ]\n          },\n          {\n            \"attribute\":\"name\",\n            \"count\":8,\n            \"type\":\"string\",\n            \"values\":[\n              \"Changu Narayan Temple\",\n              \"Ghantaghar\",\n              \"Janaki Temple\",\n              \"Krishna Mandir\",\n              \"Nyatapole\",\n              \"Pashupatinath\",\n              \"Swayambhunath\",\n              \"World Peace Pagoda\"\n            ]\n          }\n        ]\n      }\n    ]\n  }\n}"
+}
