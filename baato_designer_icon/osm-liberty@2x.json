@@ -1,0 +1,37 @@
+{
+  "atm": {
+    "height": 134,
+    "pixelRatio": 2,
+    "width": 102,
+    "x": 0,
+    "y": 0
+  },
+  "bakery": {
+    "height": 134,
+    "pixelRatio": 2,
+    "width": 102,
+    "x": 102,
+    "y": 0
+  },
+  "clinic": {
+    "height": 134,
+    "pixelRatio": 2,
+    "width": 102,
+    "x": 0,
+    "y": 134
+  },
+  "kindergarten": {
+    "height": 134,
+    "pixelRatio": 2,
+    "width": 102,
+    "x": 102,
+    "y": 134
+  },
+  "temple": {
+    "height": 134,
+    "pixelRatio": 2,
+    "width": 102,
+    "x": 204,
+    "y": 0
+  }
+}
