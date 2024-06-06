@@ -5,64 +5,192 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Golden Window",
-                "rank": "1"
+                "name": "Stall 19"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38542585431,
-                    27.68412424976
+                    85.38471892409,
+                    27.68452446328
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Main Program Stage",
-                "rank": "1"
+                "name": "Stall 17"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38569088992,
-                    27.68455712125
+                    85.38478396766,
+                    27.68461768777
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Parking",
-                "rank": "1"
+                "name": "Stall 22"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38443662159,
-                    27.68271102315
+                    85.38488924436,
+                    27.68437720404
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Stage",
-                "rank": "1"
+                "name": "Stall 11"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38503475420,
-                    27.68397580284
+                    85.38541026346,
+                    27.68493476923
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Stage",
-                "rank": "1"
+                "type": "stage",
+                "name": "Dafa Bhajan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38431055810,
+                    27.68416136171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38560673561,
+                    27.68433059140
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38485437565,
+                    27.68449121121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pulu Kisi, Peacock Dance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38548067145,
+                    27.68405358928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38470819525,
+                    27.68456959107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38475690000,
+                    27.68449208501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38523726098,
+                    27.68493476923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38539819352,
+                    27.68395858293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38507431678,
+                    27.68492526867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rank": "1",
+                "name": "Golden Window"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38535209356,
+                    27.68404705716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rank": "1",
+                "name": "Stage"
             },
             "geometry": {
                 "type": "Point",
@@ -88,13 +216,26 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stall 19"
+                "name": "Stall 7"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38471892409,
-                    27.68452446328
+                    85.38455128603,
+                    27.68490032971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38565970924,
+                    27.68440808069
                 ]
             }
         },
@@ -127,58 +268,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stall 1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38539819352,
-                    27.68395858293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 7"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38455128603,
-                    27.68490032971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 17"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38478396766,
-                    27.68461768777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 5"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38437828287,
-                    27.68398886681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Stall 13"
             },
             "geometry": {
@@ -186,162 +275,6 @@
                 "coordinates": [
                     85.38567680832,
                     27.68436384352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 9"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38507431678,
-                    27.68492526867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 12"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38565970924,
-                    27.68440808069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 15"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38485437565,
-                    27.68449121121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 16"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38484230570,
-                    27.68457018486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 8"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38493819468,
-                    27.68493833193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 18"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38470819525,
-                    27.68456959107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 21"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38482218914,
-                    27.68439798660
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 3"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38463242285,
-                    27.68413493840
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 14"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38560673561,
-                    27.68433059140
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 20"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38472227685,
-                    27.68446686594
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 11"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38541026346,
-                    27.68493476923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 22"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38488924436,
-                    27.68437720404
                 ]
             }
         },
@@ -361,13 +294,138 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stall 10"
+                "rank": "1",
+                "name": "Parking",
+                "type": "stage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38523726098,
-                    27.68493476923
+                    85.38443662159,
+                    27.68271102315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38493819468,
+                    27.68493833193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rank": "1",
+                "name": "Main Program Stage",
+                "type": "stage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38569088992,
+                    27.68455712125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38482218914,
+                    27.68439798660
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38437828287,
+                    27.68398886681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "stage",
+                "name": "Cultural Dance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38540556960,
+                    27.68414206387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rank": "1",
+                "type": "stage",
+                "name": "Na Gacha Pyakhan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38503475420,
+                    27.68397580284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38484230570,
+                    27.68457018486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38463242285,
+                    27.68413493840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "stage",
+                "name": "LED Display"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38555711441,
+                    27.68491220541
                 ]
             }
         }
