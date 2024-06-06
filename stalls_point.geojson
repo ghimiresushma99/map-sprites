@@ -18,7 +18,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stage"
+                "name": "Stage",
+                "rank": "1"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +84,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Main Program Stage"
+                "name": "Main Program Stage",
+                "rank": "1"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +202,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stage"
+                "name": "Stage",
+                "rank": "1"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +333,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Golden Window"
+                "name": "Golden Window",
+                "rank": "1"
             },
             "geometry": {
                 "type": "Point",
