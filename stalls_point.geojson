@@ -5,13 +5,56 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stall 13"
+                "name": "Golden Window",
+                "rank": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    85.38567680832,
-                    27.68436384352
+                    85.38542585431,
+                    27.68412424976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Main Program Stage",
+                "rank": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38569088992,
+                    27.68455712125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parking",
+                "rank": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38443662159,
+                    27.68271102315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stage",
+                "rank": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38503475420,
+                    27.68397580284
                 ]
             }
         },
@@ -26,6 +69,19 @@
                 "coordinates": [
                     85.38501698490,
                     27.68441045584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38416638903,
+                    27.68419906759
                 ]
             }
         },
@@ -84,20 +140,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Main Program Stage",
-                "rank": "1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38569088992,
-                    27.68455712125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Stall 7"
             },
             "geometry": {
@@ -105,19 +147,6 @@
                 "coordinates": [
                     85.38455128603,
                     27.68490032971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stall 6"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38416638903,
-                    27.68419906759
                 ]
             }
         },
@@ -144,6 +173,19 @@
                 "coordinates": [
                     85.38437828287,
                     27.68398886681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38567680832,
+                    27.68436384352
                 ]
             }
         },
@@ -196,20 +238,6 @@
                 "coordinates": [
                     85.38484230570,
                     27.68457018486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Stage",
-                "rank": "1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38503475420,
-                    27.68397580284
                 ]
             }
         },
@@ -327,20 +355,6 @@
                 "coordinates": [
                     85.38455396824,
                     27.68415097070
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Golden Window",
-                "rank": "1"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    85.38542585431,
-                    27.68412424976
                 ]
             }
         },
