@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38567680832,
+                    27.68436384352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38501698490,
+                    27.68441045584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38471892409,
+                    27.68452446328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38496971063,
+                    27.68435404632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38532979719,
+                    27.68392592448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38539819352,
+                    27.68395858293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Main Program Stage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38569088992,
+                    27.68455712125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38455128603,
+                    27.68490032971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38416638903,
+                    27.68419906759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38478396766,
+                    27.68461768777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38437828287,
+                    27.68398886681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38507431678,
+                    27.68492526867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38565970924,
+                    27.68440808069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38485437565,
+                    27.68449121121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38484230570,
+                    27.68457018486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38503475420,
+                    27.68397580284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38493819468,
+                    27.68493833193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38470819525,
+                    27.68456959107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38482218914,
+                    27.68439798660
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38463242285,
+                    27.68413493840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38560673561,
+                    27.68433059140
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38472227685,
+                    27.68446686594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38541026346,
+                    27.68493476923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38488924436,
+                    27.68437720404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38455396824,
+                    27.68415097070
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golden Window"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38542585431,
+                    27.68412424976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stall 10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.38523726098,
+                    27.68493476923
+                ]
+            }
+        }
+    ]
+}
